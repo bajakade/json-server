@@ -1,0 +1,14 @@
+{
+  "name": "json-db",
+  "version": "1.0.0",
+  "description": "Payroll JSON Server",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon server.js"
+  },
+  "author": "Bashir Ibrahim",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
+}
